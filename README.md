@@ -17,7 +17,8 @@ L'idea è rendere la ricerca di informazioni più visiva, spaziale e veloce.
 "Demo concettuale visiva disponibile" 
 
 ### Tech Stack
-[Scrivimi tu cosa hai usato: es. HTML / CSS / JavaScript / Three.js / React?]
+concept:interfaccia visiva 3D,iterazione spaziale navigazione con griglia A-Z architettura di storage a freddo crio
+Prototipo sviluppato come concept visivo interattivo
 
 ### Obiettivo
 Trasformare questo prototipo in un sistema open-source per la visualizzazione di archivi complessi. Cerco feedback da developer e ricercatori.
